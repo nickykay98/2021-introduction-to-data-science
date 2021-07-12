@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=K_EFlXDMkvA
+
 # 2021 Introduction to Data Science
 Introduction to Data Science - Microsoft Student Accelerator Program 2021
 
