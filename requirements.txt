@@ -4,3 +4,4 @@ sklearn
 seaborn
 beautifulsoup4 
 requests
+nltk

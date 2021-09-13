@@ -1,11 +1,3 @@
-## Software Installations and Prerequisites
-You'll need to install the Following Python packages (enter the following commands in your powershell/termial):
-```
-pip install pandas 
-pip install scikit-learn
-pip install nltk 
-```
-
 ## Goal
 
 We are going to process raw text data into a format that the machine learning models can understand. 

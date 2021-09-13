@@ -8,3 +8,6 @@ FOR ASSIGNMENT:
 - Need to get data in the right format for model (can't feed whole book into it)
 - Model output is not well-defined, need to come up with a way of converting output into something useful
 - Transform text into all lowercase, combine similar words (stemming) - slide 47
+- Scale inputs for NNs (like b/w 0-1 , or mean of 0 and std of 1)
+- Submit notebook like 2.ipynb but better commented/more markdown (explain what you did, how you tested the models, different variations etc)
+- 
