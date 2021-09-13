@@ -1,5 +1,3 @@
-
-
 <div align="center" style="display:flex">
     <img width="200px" src="https://user-images.githubusercontent.com/41566813/126031976-64662e14-d20b-4aa7-9499-210c6834bb48.png"/>
     <h1>Data Extraction Example</h1>
@@ -26,13 +24,6 @@ Congrats on finishing MSA phase 1 data science 😃. In this section we are goin
 ## Software Installations and Prerequisites
 1. Python
 2. Make sure pip is installed in your computer. Check [Workshop 1]("https://github.com/NZMSA/2021-introduction-to-data-science/tree/main/Data%20Preparation/slides") for how to install pip
-3. Enter the following command in your powershell/termial:
-```
-pip install beautifulsoup4 
-pip install requests
-pip install pandas 
-```
-Note for MacOS if above doesn't work try ```pip3 install```<br>
 
 ## Goal
 So what is our goal in this case? It is about movie reviews. <br>
