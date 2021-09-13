@@ -2,3 +2,5 @@ notebook
 pandas
 sklearn
 seaborn
+beautifulsoup4 
+requests

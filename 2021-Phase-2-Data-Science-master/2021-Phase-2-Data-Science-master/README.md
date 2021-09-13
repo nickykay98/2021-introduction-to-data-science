@@ -1,15 +1,6 @@
 # Microsoft Student Accelerator 2021 Phase 2 Training - Data Science Stream
 The official repository and source of knowledge for MSA students taking part in MSA 2021 Data Science Phase 2 Training.
 
-# Assignment
-
-* The Data Science Stream Assignment can be found here: [2021-MSA-Phase2-Data-Science.pdf](https://github.com/NZMSA/2021-Phase2-Assignments/blob/main/2021-MSA-Phase2-Data-Science.pdf)
-
-# What to Bring
-* Laptop & charger and power extension cord
-* Snacks, lunch, and water
-* And a Fresh mind 😃
-
 # Before We Start
 You need to:<br>
 ✅ Register for Kaggle (https://www.kaggle.com/) and join the [CommonLit Readability Prize Challenge](https://www.kaggle.com/c/commonlitreadabilityprize)<br>
@@ -25,6 +16,3 @@ You will also need an active Azure subscription. Check out how to get your free 
 
 ## Stuck? 
 Post your question on our [facebook group](https://aka.ms/nzmsa) or on our [discord server](https://discord.gg/c4Y5SAZ)
-
-### Want to contribute? 
-We welcome all students to help us improve documentation for other students. If you find a typo or find something is unclear, please open a pull request or an issue
