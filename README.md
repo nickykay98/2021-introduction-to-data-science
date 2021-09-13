@@ -1,5 +1,3 @@
-https://www.youtube.com/watch?v=K_EFlXDMkvA
-
 # 2021 Introduction to Data Science
 Introduction to Data Science - Microsoft Student Accelerator Program 2021
 
@@ -26,3 +24,17 @@ This is what we'll be using in the workshop. Ideally, if you can install the sof
 ```
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 ```
+
+## Workshop Video
+https://www.youtube.com/watch?v=K_EFlXDMkvA
+
+## For Phase 2 (from https://github.com/NZMSA/2021-Phase2-Assignments/blob/main/README.md)
+✅ Register for Kaggle (https://www.kaggle.com/) and join the CommonLit Readability Prize Challenge
+✅ Install Python or Anaconda
+✅ Install the following libraries for Python (If you did not install Anaconda): pandas, jupyter, scikit-learn, beautifulsoup, requests, pytorch, azureml-core
+✅ Register for an Azure account (https://azure.microsoft.com/en-us/free/students/)
+✅ Register for a GitHub Account (https://github.com/) - For hosting & storing our project.
+
+## Phase 2 Videos
+https://www.youtube.com/watch?v=k9AuYqmk600
+https://www.youtube.com/watch?v=XVhQNmMFaHQ
