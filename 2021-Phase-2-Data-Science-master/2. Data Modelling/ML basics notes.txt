@@ -1,0 +1,10 @@
+44: common words have high counts and don't contribute much to meaning of phrase, not useful for algorithm
+45: TF-IDF minimises impact of common words and vice versa
+46: bottom table is TF-IDF (can use in sklearn) - easier to see what phrases are about, ML algorithm might have easier time figuring out sentiment/meaning
+48: similar words are grouped together, could also do vector arithmetic on them (word2vec - slide 50)
+
+
+FOR ASSIGNMENT:
+- Need to get data in the right format for model (can't feed whole book into it)
+- Model output is not well-defined, need to come up with a way of converting output into something useful
+- Transform text into all lowercase, combine similar words (stemming) - slide 47
