@@ -11,4 +11,5 @@ FOR ASSIGNMENT:
 - Scale inputs for NNs (like b/w 0-1 , or mean of 0 and std of 1)
 - Submit notebook like 2.ipynb but better commented/more markdown (explain what you did, how you tested the models, different variations etc)
 - Get a better score than the 2.ipynb notebook (0.806 RMSE, lower is better)
+- Advanced requirement: huggingface model outputs a folder of files, not just json (like XGboost), account for this - see 4. example.ipynb
 - Will be asked in presentation (going through what you did, any interesting/advanced things you did) about either technical part of business case or scraping part 

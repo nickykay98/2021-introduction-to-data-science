@@ -8,12 +8,6 @@ For those that are familiar with full stack software development, deployment is 
 
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-and-where?tabs=azcli
 
-## Software Installations and Prerequisites 
-
-1. Microsoft Azure (Student account)
-2. Python or Anaconda 
-3. ```pip install azureml-core```
-
 ## Microsoft Azure - Machine Learning (Setup)
 
 We need to setup a cloud service to host our machine learning model, and in this tutorial we will be using Microsoft Azure Machine Learning Studio.
