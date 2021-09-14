@@ -14,7 +14,7 @@ def init():
     model = XGBClassifier(use_label_encoder = False)
     model.load_model(os.path.join(os.getenv("AZUREML_MODEL_DIR"), "model.json"))
 
-# 2. Requried run function
+# 2. Requried run function - can vary according to complexity of model, how you want to interface with the data
 def run(request):
     # Receive the data and run model to get predictions 
     data = json.loads(request)
