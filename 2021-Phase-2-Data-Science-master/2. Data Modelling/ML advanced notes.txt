@@ -1,0 +1,25 @@
+- See MIT Deep Learning: State of the Art (2020) slides (covered in Part 2 of Phase 2 workshop - 28:18 to 2:03:00)
+
+Transformers
+- Architecture for NLP, introduced by Google in 2018 e.g. GPT, 
+- Create model with lots of text without labels
+- Used for sentiment analysis, image/entity recognition
+- Embeddings learned over time
+
+BERT
+- Self-supervised, mask one word in phrase and tell model to predict missing word with phrase as input
+- Tokens (i.e. words) inputted
+- Self-attention: take one word and check its similarity/connectivity to all other words in phrase
+- A "class token" aggregates all the info of the phrase for e.g. classification of sentiment, to represent entire phrase
+
+HuggingFace transformers (huggingface.co)
+- BERT, GPT etc are very big
+- Wrapper for any transformer model
+- Like Android for transformers
+- Pretrained model
+
+LSTM (long/short term memory) encoders and decoders
+- can't train with long sequences (BPTT, back propagation throughtype (?) is hard), non parallelisable, non-interpretable
+- can be solved with Stacked Attention models (combining encoder and decoder models)
+
+Sequence-to-Sequence models
